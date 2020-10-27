@@ -1,4 +1,4 @@
-/* Custom Font https://fonts.google.com/ */
+/* Custom Font (https://fonts.google.com/) */
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 html {
@@ -20,7 +20,7 @@ h1 {
     letter-spacing: 5px;
 }
 
-/* Loader https://loading.io/ */
+/* Loader (https://loading.io/) */
 
 .loader {
     position: fixed;
@@ -38,7 +38,7 @@ h1 {
     transform: translate(-50%, -50%);
 }
 
-/* Image Container https://unsplash.com/ */
+/* Image Container (https://unsplash.com/) */
 
 .image-container {
     margin: 10px 30%;
